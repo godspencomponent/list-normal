@@ -1,7 +1,6 @@
 {
   "name": "list-normal",
-  "namespace": "Luffy",
-  "label": "",
+  "label": "普通列表",
   "version": "1.0.2",
   "description": "普通列表",
   "private": true,
